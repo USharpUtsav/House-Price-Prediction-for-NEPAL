@@ -24,6 +24,7 @@ A web application built with **Django** to predict house prices based on key pro
 ---
 ## DATASET USED
 https://www.kaggle.com/datasets/sagyamthapa/nepali-housing-price-dataset
+
 Cleaning of data with handling null values was done before experimenting to create a prediction model, the cleaning and null handling however is not shown in node was done in a seperate colab file, but is easy to replicate and can be provided if notified
 
 ## Technologies Used
