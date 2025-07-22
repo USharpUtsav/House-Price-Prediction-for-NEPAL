@@ -34,9 +34,9 @@ A web application built with **Django** to predict house prices based on key pro
 To run this project:-
 1. Create and activate a virtual environment:
 python -m venv venv
-# On Windows:
+* On Windows:
 venv\Scripts\activate
-# On macOS/Linux:
+* On macOS/Linux:
 source venv/bin/activate
 
 2.pip install -r requirements.txt
